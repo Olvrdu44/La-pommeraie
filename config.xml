@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="fr.rainetcom.workandpadel" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>WORK AND PADEL</name>
+<widget id="fr.rainetcom.lapommeraie" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>La pommeraie</name>
     <description>
         Réservez vos terrains, ajoutez-vous à des parties et participez aux animations
     </description>
-    <author email="contact@rainetcom.fr" href="http://www.rainetcom.fr">
+    <author email="contact@gestion-sports.com" href="https://www.gestion-sports.fr">
         Team RainetCom
     </author>
     <content src="index.html" />
